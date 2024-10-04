@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Define el tema principal de tu aplicación -->
+    <style name="Theme.S5sum2" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Colores primarios personalizados -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryDark">@color/purple_700</item>
+        <item name="colorAccent">@color/teal_200</item>
+
+        <!-- Barra de estado transparente -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+</resources>

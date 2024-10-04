@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EcoVisual</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_resetpas">ResetpasActivity</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_escribir">EscribirActivity</string>
+    <string name="title_activity_hablar">HablarActivity</string>
+    <string name="title_activity_geo">GeoActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_conversation">ConversationActivity</string>
+    <string name="title_activity_view">ViewActivity</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+</resources>

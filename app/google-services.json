@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346008516895",
+    "project_id": "s5sum2",
+    "storage_bucket": "s5sum2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346008516895:android:a7398b42bc690c5816d82a",
+        "android_client_info": {
+          "package_name": "com.example.s5sum2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs9m6KeiYxBQ-WvGz6ALQPH6QKlrp4gjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
